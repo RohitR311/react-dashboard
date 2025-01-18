@@ -5,6 +5,7 @@
   "version": "2.0.0",
   "private": false,
   "type": "module",
+  "homepage": "https://rohitr311.github.io/react-dashboard/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
